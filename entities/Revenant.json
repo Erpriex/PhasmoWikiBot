@@ -1,5 +1,10 @@
 {
     "name": "Revenant",
     "value": "revenant",
-    "description": "Le Revenant est une entité violente qui attaquera sans distinction. Leur vitesse de déplacement peut être trompeuse puisqu'ils sont lents au repos mais incroyablement rapide lorsqu'ils chassent."
+    "description": "Le Revenant est une entité violente qui attaquera sans distinction. Leur vitesse de déplacement peut être trompeuse puisqu'ils sont lents au repos mais incroyablement rapide lorsqu'ils chassent.",
+    "preuves": [
+        "Orbe fantômatique",
+        "Écriture fantômatique",
+        "Températures glaciales"
+    ]
 }

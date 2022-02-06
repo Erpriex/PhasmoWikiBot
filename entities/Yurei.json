@@ -1,5 +1,10 @@
 {
     "name": "Yurei",
     "value": "yurei",
-    "description": "Le Yurei est une entité qui est revenue dans le monde physique dans une optique de vengance ou par pure haine."
+    "description": "Le Yurei est une entité qui est revenue dans le monde physique dans une optique de vengance ou par pure haine.",
+    "preuves": [
+        "Orbe fantômatique",
+        "Températures glaciales",
+        "Projecteur DOTS"
+    ]
 }

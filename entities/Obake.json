@@ -1,5 +1,10 @@
 {
     "name": "Obake",
     "value": "obake",
-    "description": "Les Obake sont de terrifiants métamorphes, capables de prendre de nombreuses formes. On les a vus prendre des formes humanoïdes pour attirer leurs proies."
+    "description": "Les Obake sont de terrifiants métamorphes, capables de prendre de nombreuses formes. On les a vus prendre des formes humanoïdes pour attirer leurs proies.",
+    "preuves": [
+        "EMF niveau 5",
+        "Emprintes digitales",
+        "Orbe fantômatique"
+    ]
 }

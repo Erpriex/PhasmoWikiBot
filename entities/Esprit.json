@@ -1,5 +1,10 @@
 {
     "name": "Esprit",
     "value": "esprit",
-    "description": "Les Esprits sont des entités très banales. Ils sont puissants mais passifs et attaquent seulement lorsqu'ils y sont obligés. Ils défendent le lieu de leur décès coûte que coûte, tuant quiconque abuserait de leur hôspitalité."
+    "description": "Les Esprits sont des entités très banales. Ils sont puissants mais passifs et attaquent seulement lorsqu'ils y sont obligés. Ils défendent le lieu de leur décès coûte que coûte, tuant quiconque abuserait de leur hôspitalité.",
+    "preuves": [
+        "EMF niveau 5",
+        "Sprit Box",
+        "Écriture fantômatique"
+    ]
 }

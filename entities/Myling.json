@@ -1,5 +1,10 @@
 {
     "name": "Myling",
     "value": "myling",
-    "description": "Le Myling est un fantôme très actif et bavard. La rumeur prétend cependant qu'il devient silencieux quand il chasse sa proie."
+    "description": "Le Myling est un fantôme très actif et bavard. La rumeur prétend cependant qu'il devient silencieux quand il chasse sa proie.",
+    "preuves": [
+        "EMF niveau 5",
+        "Emprintes digitales",
+        "Écriture fantômatique"
+    ]
 }

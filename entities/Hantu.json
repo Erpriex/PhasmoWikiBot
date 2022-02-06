@@ -1,5 +1,10 @@
 {
     "name": "Hantu",
     "value": "hantu",
-    "description": "Les Hantu sont des entités rares qui profitent des climats les plus froids. Le froid semble les rendre agressifs et puissants."
+    "description": "Les Hantu sont des entités rares qui profitent des climats les plus froids. Le froid semble les rendre agressifs et puissants.",
+    "preuves": [
+        "Empreintes digitales",
+        "Orbe fantômatique",
+        "Températures glaciales"
+    ]
 }

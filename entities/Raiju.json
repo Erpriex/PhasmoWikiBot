@@ -1,5 +1,10 @@
 {
     "name": "Raiju",
     "value": "raiju",
-    "description": "Un Raiju est un démon qui profite des courants électriques. Bien que généralement calme, il peut devenir agité quand il est submergé de puissance."
+    "description": "Un Raiju est un démon qui profite des courants électriques. Bien que généralement calme, il peut devenir agité quand il est submergé de puissance.",
+    "preuves": [
+        "EMF niveau 5",
+        "Orbe fantômatique",
+        "Projecteur DOTS"
+    ]
 }

@@ -1,5 +1,10 @@
 {
     "name": "Cauchemar",
     "value": "cauchemar",
-    "description": "Le Cauchemar est la source de tous les mauvais rêve, ce qui le rend plus puissant dans l'obscurité."
+    "description": "Le Cauchemar est la source de tous les mauvais rêve, ce qui le rend plus puissant dans l'obscurité.",
+    "preuves": [
+        "Spirit Box",
+        "Orbe fantômatique",
+        "Écriture fantômatique"
+    ]
 }

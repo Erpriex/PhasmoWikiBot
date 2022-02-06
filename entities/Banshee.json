@@ -1,5 +1,10 @@
 {
     "name": "Banshee",
     "value": "banshee",
-    "description": "La siène chantante, connue pour attirer ses vitimes avec ses chansons. On sait qu'elle identifie précisément sa proie avant de porter le coup fatal."
+    "description": "La siène chantante, connue pour attirer ses vitimes avec ses chansons. On sait qu'elle identifie précisément sa proie avant de porter le coup fatal.",
+    "preuves": [
+        "Empreintes digitales",
+        "Orbe fantômatique",
+        "Projecteur DOTS"
+    ]
 }

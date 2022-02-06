@@ -1,5 +1,10 @@
 {
     "name": "Ombre",
     "value": "ombre",
-    "description": "L'Ombre est une entité timide. Il semble qu'une ombre cessera toute activité si plusieurs personnes sont à proximité."
+    "description": "L'Ombre est une entité timide. Il semble qu'une ombre cessera toute activité si plusieurs personnes sont à proximité.",
+    "preuves": [
+        "EMF niveau 5",
+        "Écriture fantômatique",
+        "Températures glaciales"
+    ]
 }

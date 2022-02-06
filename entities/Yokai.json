@@ -1,5 +1,10 @@
 {
     "name": "Yokai",
     "value": "yokai",
-    "description": "Les Yokai sont des entités banales attirées par les vois humaines. Ils hantent très souvent des maisons familiales."
+    "description": "Les Yokai sont des entités banales attirées par les vois humaines. Ils hantent très souvent des maisons familiales.",
+    "preuves": [
+        "Spirit Box",
+        "Orbe fantômatique",
+        "Projecteur DOTS"
+    ]
 }
