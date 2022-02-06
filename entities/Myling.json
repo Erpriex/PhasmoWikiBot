@@ -1,6 +1,7 @@
 {
     "name": "Myling",
     "value": "myling",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Myling.json",
     "description": "Le Myling est un fantôme très actif et bavard. La rumeur prétend cependant qu'il devient silencieux quand il chasse sa proie.",
     "preuves": [
         "EMF niveau 5",

@@ -1,6 +1,7 @@
 {
     "name": "Fantôme",
     "value": "fantome",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Fantome.json",
     "description": "Le Fantôme est une entité capable de posséder les vivants et leur induire de la peur. Ils sont le plus souvent invoqués via une planche Ouija.",
     "preuves": [
         "Spirit Box",

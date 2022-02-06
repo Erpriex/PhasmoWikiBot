@@ -1,6 +1,7 @@
 {
     "name": "Ombre",
     "value": "ombre",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Ombre.json",
     "description": "L'Ombre est une entité timide. Il semble qu'une ombre cessera toute activité si plusieurs personnes sont à proximité.",
     "preuves": [
         "EMF niveau 5",

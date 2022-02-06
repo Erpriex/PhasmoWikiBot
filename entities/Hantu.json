@@ -1,6 +1,7 @@
 {
     "name": "Hantu",
     "value": "hantu",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Hantu.json",
     "description": "Les Hantu sont des entités rares qui profitent des climats les plus froids. Le froid semble les rendre agressifs et puissants.",
     "preuves": [
         "Empreintes digitales",

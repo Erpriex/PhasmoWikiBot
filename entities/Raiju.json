@@ -1,6 +1,7 @@
 {
     "name": "Raiju",
     "value": "raiju",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Raiju.json",
     "description": "Un Raiju est un démon qui profite des courants électriques. Bien que généralement calme, il peut devenir agité quand il est submergé de puissance.",
     "preuves": [
         "EMF niveau 5",

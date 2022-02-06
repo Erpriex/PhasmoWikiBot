@@ -1,6 +1,7 @@
 {
     "name": "Yokai",
     "value": "yokai",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Yokai.json",
     "description": "Les Yokai sont des entités banales attirées par les vois humaines. Ils hantent très souvent des maisons familiales.",
     "preuves": [
         "Spirit Box",

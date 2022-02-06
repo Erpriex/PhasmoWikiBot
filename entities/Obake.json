@@ -1,6 +1,7 @@
 {
     "name": "Obake",
     "value": "obake",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Obake.json",
     "description": "Les Obake sont de terrifiants métamorphes, capables de prendre de nombreuses formes. On les a vus prendre des formes humanoïdes pour attirer leurs proies.",
     "preuves": [
         "EMF niveau 5",

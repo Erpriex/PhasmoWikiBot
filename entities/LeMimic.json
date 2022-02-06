@@ -1,6 +1,7 @@
 {
     "name": "Le Mimic",
     "value": "lemimic",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/LeMimic.json",
     "description": "Le Mimic est une entité insaisissable et mystérieuse qui imite les traits et comportements des autres, y compris d'autres entités.",
     "preuves": [
         "Spirit Box",

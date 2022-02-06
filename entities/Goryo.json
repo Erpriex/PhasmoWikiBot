@@ -1,6 +1,7 @@
 {
     "name": "Goryo",
     "value": "goryo",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Goryo.json",
     "description": "Seul regarder à travers une caméra permet de voir un Goryo passer dans le champs d'un projecteur DOTS.",
     "preuves": [
         "EMF niveau 5",

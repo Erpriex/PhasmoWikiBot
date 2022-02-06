@@ -9,6 +9,12 @@ const configParsed = JSON.parse(JSON.stringify(config));
 
 const CommandPhasmowiki = require('./commands/CommandPhasmowiki');
 
+module.exports = class PhasmoWiki{
+  static getBot(){
+    return bot;
+  }
+}
+
 bot.on('ready', function() {
   refreshCommandsSlash();
   console.log("[Bot]: Ready !");
@@ -18,6 +24,12 @@ bot.on('interactionCreate', async interaction => {
   if(interaction.isCommand()){
     if(CommandPhasmowiki.match(interaction)){
       await CommandPhasmowiki.action(interaction);
+    }
+  }
+
+  if(interaction.isSelectMenu()){
+    if(interaction.customId == "entities"){
+      await CommandPhasmowiki.interactWithMenu(interaction);
     }
   }
 })

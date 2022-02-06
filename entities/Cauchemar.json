@@ -1,6 +1,7 @@
 {
     "name": "Cauchemar",
     "value": "cauchemar",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Cauchemar.json",
     "description": "Le Cauchemar est la source de tous les mauvais rêve, ce qui le rend plus puissant dans l'obscurité.",
     "preuves": [
         "Spirit Box",

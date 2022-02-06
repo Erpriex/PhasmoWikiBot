@@ -1,6 +1,7 @@
 {
     "name": "Poltergeist",
     "value": "poltergeist",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Poltergeist.json",
     "description": "L'un des fantômes les plus célèbres, le Poltergeist. Il est connu pour manipuler les objets autour de ses victimes afin de les effrayer.",
     "preuves": [
         "Spirit Box",

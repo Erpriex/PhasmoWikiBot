@@ -1,6 +1,7 @@
 {
     "name": "Banshee",
     "value": "banshee",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Banshee.json",
     "description": "La siène chantante, connue pour attirer ses vitimes avec ses chansons. On sait qu'elle identifie précisément sa proie avant de porter le coup fatal.",
     "preuves": [
         "Empreintes digitales",

@@ -1,6 +1,7 @@
 {
     "name": "Spectre",
     "value": "spectre",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Spectre.json",
     "description": "Les Spectres font partie des entités les plus dangereuses que vous pouvez rencontrer. C'est également le seul fantôme connu à pouvoir voler et parfois passer à travers les murs.",
     "preuves": [
         "EMF niveau 5",

@@ -1,6 +1,7 @@
 {
     "name": "Onryo",
     "value": "onryo",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Onryo.json",
     "description": "L'Onryo est souvent décrit comme un \"esprit furieux\". En quête de vengance, il vole les âmes des corps de victimes mourantes. Cette entité est connue pour avoir peur de quelconque forme de feu et fera tout pour s'en tenir éloignée.",
     "preuves": [
         "Spirit Box",

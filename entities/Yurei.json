@@ -1,6 +1,7 @@
 {
     "name": "Yurei",
     "value": "yurei",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Yurei.json",
     "description": "Le Yurei est une entité qui est revenue dans le monde physique dans une optique de vengance ou par pure haine.",
     "preuves": [
         "Orbe fantômatique",

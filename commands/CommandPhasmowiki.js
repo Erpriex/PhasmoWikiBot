@@ -1,4 +1,4 @@
-const { MessageActionRow, MessageSelectMenu } = require('discord.js');
+const { MessageEmbed, MessageActionRow, MessageSelectMenu } = require('discord.js');
 
 const Esprit = JSON.parse(JSON.stringify(require("../entities/Esprit.json")));
 const Spectre = JSON.parse(JSON.stringify(require("../entities/Spectre.json")));
@@ -140,6 +140,30 @@ module.exports = class CommandPhasmowiki{
             ])
         );
         interaction.reply({ content: "Choix d'une entité", components: [row] });
+    }
+
+    static interactWithMenu(interaction){
+      interaction.deferUpdate();
+      let valueInteract = interaction.values[0];
+      if(!entities.has(valueInteract)){
+        interaction.reply("L'entité sélectionnée n'a pas été trouvée");
+        return;
+      }
+      let entity = entities.get(valueInteract);
+
+      let preuvesStr = "";
+      entity.preuves.forEach((value,index,array) => {
+        preuvesStr += "• " + value + "\n";
+      })
+
+      let embed = new MessageEmbed()
+        .setTitle('> ' + entity.name)
+        .setURL(entity.url)
+        .setDescription(entity.description)
+        .addField("Preuves", preuvesStr)
+
+      let PhasmoWiki = require('../PhasmoWiki');
+      PhasmoWiki.getBot().channels.cache.get(interaction.channelId).send({embeds: [embed]});
     }
 
 }

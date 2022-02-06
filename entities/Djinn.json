@@ -1,6 +1,7 @@
 {
     "name": "Djinn",
     "value": "djinn",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Djinn.json",
     "description": "Le Djinn est un fantôme territorial qui attaque lorsqu'il est menacé. Il est également connu pour se déplacer à une vitesse significative.",
     "preuves": [
         "EMF niveau 5",

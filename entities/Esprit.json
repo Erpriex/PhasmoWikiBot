@@ -1,6 +1,7 @@
 {
     "name": "Esprit",
     "value": "esprit",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Esprit.json",
     "description": "Les Esprits sont des entités très banales. Ils sont puissants mais passifs et attaquent seulement lorsqu'ils y sont obligés. Ils défendent le lieu de leur décès coûte que coûte, tuant quiconque abuserait de leur hôspitalité.",
     "preuves": [
         "EMF niveau 5",

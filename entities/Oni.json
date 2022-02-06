@@ -1,6 +1,7 @@
 {
     "name": "Oni",
     "value": "oni",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/Oni.json",
     "description": "Les Onis adorent effrayer le plus possible leur victime avant d'attaquer. Ils sont souvent observés sous leur forme physique en train de garder le lieu de leur décès.",
     "preuves": [
         "EMF niveau 5",

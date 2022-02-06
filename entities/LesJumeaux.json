@@ -1,6 +1,7 @@
 {
     "name": "Les Jumeaux",
     "value": "lesjumeaux",
+    "url": "https://github.com/Erpriex/PhasmoWikiBot/blob/master/entities/LesJumeaux.json",
     "description": "Ces entités ont été observées en train d'imiter les actions l'une de l'autre. Elles alternent leurs attaques pour déstabiliser leur proie.",
     "preuves": [
         "EMF niveau 5",
