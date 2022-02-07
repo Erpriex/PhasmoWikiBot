@@ -12,12 +12,13 @@
     "faiblesse": "Les démons ont moins d'impact sur votre santé mentale quand vous utilisez un objet maudit.",
     "pouvoir": "Le Démon ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité.",
     "informations": [
-        "Le Démon est une entité prévisible : il est facile à déterminer et sera plutôt actif.",
-        "Le Démon peut chasser très tôt. Répandre de l'encens avec un Bâtons d'encens dans sa pièce de prédilection ou encore y déposer un Crucifix sera utile pour l'empêcher temporairement d'initier une Chasse.",
-        "Lorsque vous posez une question sur la Planche Ouija, une réponse d'un Démon fera baisser votre Santé Mentale d'un montant de 10% moins élevé que toutes les autres entités. Si vous étiez sensé perdre 50%, vous n'en perdrez que 40%.",
-        "Si le Démon refuse de répondre et éteint la Planche Ouija, vous perdrez toujours 10% de santé mentale. Soyez donc prudents si vous souhaitez adopter cette stratégie."
+        "A une chance d'attaquer à tout moment quand la santé mentale est < 80%",
+        "A une pause de 20 secondes minimum entre 2 chasses",
+        "Les bâtons d'ensens sont actifs que 60 secondes au lieu de 90",
+        "Sur la Planche Ouija, la réponse d'un Démon fera baisser la santé mentale 10% de moins"
     ],
     "contributeurs": [
-        "Erpriex"
+        "Erpriex",
+        "Karamon"
     ]
 }

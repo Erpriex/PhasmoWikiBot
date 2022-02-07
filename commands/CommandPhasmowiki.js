@@ -162,7 +162,7 @@ module.exports = class CommandPhasmowiki{
 
       let informationsStr = "";
       entity.informations.forEach((value,index,array) => {
-        informationsStr += "• " + value + "\n";
+        informationsStr += "• " + value + "\n \n";
       })
 
       let contributeursStr = "";
@@ -172,7 +172,7 @@ module.exports = class CommandPhasmowiki{
 
       let PhasmoWiki = require('../PhasmoWiki');
 
-      let embed = new MessageEmbed()
+      let embedIntro = new MessageEmbed()
         .setTitle('> ' + entity.name)
         .setURL(entity.url)
         .setDescription(entity.description)
@@ -180,10 +180,16 @@ module.exports = class CommandPhasmowiki{
         .addField("Force", entity.force, true)
         .addField("Faiblesse", entity.faiblesse, true)
         .addField("Pouvoir", entity.pouvoir)
+      
+      //let embedInfos = new MessageEmbed()
         .addField("Informations", informationsStr)
         .setFooter("Contributeurs:" + contributeursStr, PhasmoWiki.getBot().user.avatarURL())
 
-      PhasmoWiki.getBot().channels.cache.get(interaction.channelId).send({embeds: [embed]});
+      try{
+        PhasmoWiki.getBot().channels.cache.get(interaction.channelId).send({content: "<@" + interaction.member.user.id + ">", embeds: [embedIntro]});
+      }catch(error){
+        console.error(error);
+      }
     }
 
 }

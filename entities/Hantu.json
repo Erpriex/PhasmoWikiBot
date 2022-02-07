@@ -12,12 +12,14 @@
     "faiblesse": "Les Habtu sont plus lents dans les zones plus chaudes.",
     "pouvoir": "Le Hantu ne dispose pas de pouvoir particulier. Il efffectuera donc davantage d'apparitions que les autres types d'entité.",
     "informations": [
-        "Le Hantu est lent dans les endroits chauds, il peut être une bonne idée d'allumer le Disjoncteur afin de le ralentir en chasse.",
-        "Le Hantu est l'entité qui se déplace le plus parmi toutes. Il recherche les endroits chauds car il les adore, mais comme il fait chuter leur température, il change souvent de pièce.",
-        "Bien qu'il se déplace beaucoup, on n'observe pas de changement brutal de pièce favorite pour cette entité, et lorsque ça arrive, elle changera de pièce favorite pour une pièce voisine.",
-        "Gardez la trace de la pièce favorite du Hantu en traquant son Orbe. Contrairement au Hantu, son orbe reste dans sa pièce favorite."
+        "Lent dans les endroits chauds, allumer le disjoncteur pour le ralentir en chasse",
+        "Change souvent de pièce",
+        "Pas de changement brutal de pièce favorite pour cette entité, et lorsque ça arrive, elle changera de pièce favorite pour une pièce voisine.",
+        "Gardez la trace de la pièce favorite du Hantu en traquant son Orbe. Contrairement au Hantu, son orbe reste dans sa pièce favorite.",
+        "Vitesse de déplacement : 1.8m/s si pièce < 10°C\n1.4m/s si pièce >= 10°C"
     ],
     "contributeurs": [
-        "Erpriex"
+        "Erpriex",
+        "Karamon"
     ]
 }

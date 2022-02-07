@@ -12,14 +12,13 @@
     "faiblesse": "Allumer les luminères autour du Cauchemar réduira ses chances d'attaquer.",
     "pouvoir": "Le Cauchemar éteint toutes les lumières à proximité, voire le disjoncteur",
     "informations": [
-        "Le Cauchemar a tendance à vouloir éteindre les lumières et le disjoncteur. Il est donc facile de se méprendre et de le confondre avec un Jinn qui a également tendance à s'amuser avec le Disjoncteur, ou avec un Poltergeist dans les pièces où il est difficile d'obtenir des Empreintes digitales.",
-        "Le Cauchemar a été mis à jour afin de ne pas être capable d'allumer des lumières ou le Disjoncteur afin de l'aider dans son pouvoir. Vous pouvez dorénavant être sûrs que si l'entité allume une lumière, il ne s'agit pas d'un Cauchemar.",
-        "Si les lumières sont éteintes dans la pièce où le Cauchemar se trouve (ce qui n’est pas nécessairement la Pièce hantée puisqu’il peut se mettre à errer dans les environs), celui-ci peut chasser lorsque la Santé Mentale moyenne des joueurs est à moins de 65% lorsque les lumières dans sa pièce actuelle sont éteintes et à 40% lorsque les lumières sont allumées.",
-        "Afin de minimiser les risques, il est recommandé de laisser les lumières allumées dans la Pièce hantée et les pièces voisines, incluant l’usage de Bougies si le Disjoncteur est dans un endroit difficile d’accès. Néanmoins, tel que mentionné précédemment, le Cauchemar a tendance à éteindre les lumières ou le Disjoncteur afin de faire tourner son environnement à son avantage.",
-        "Il peut être bénéfique de retenir la position du Disjoncteur dans les grandes cartes, et au besoin, de poster un joueur près du Disjoncteur pour contrer les habitudes du Cauchemar. Cependant, les pièces des disjoncteurs sont rarement totalement sécurisées, et la position de celui-ci est masquée en difficulté Cauchemardesque.",
-        "À noter que allumer les lumières n’empêchera pas le Cauchemar de chasser, seulement moins fréquemment comparativement aux autres types d’Entité."
+        "Il éteint beaucoup les lumières et le dijoncteur (cherche parfois même à les exploser)",
+        "Si l'entité allume la lumière, ce n'est **pas** un Cauchemar",
+        "Le cauchemar peut chasser à tout moment dans le noir",
+        "La lumière réduit les probabilités de chasse ; il est donc important d'utiliser tout type de lumière (bougies y compris)"
     ],
     "contributeurs": [
-        "Erpriex"
+        "Erpriex",
+        "Karamon"
     ]
 }

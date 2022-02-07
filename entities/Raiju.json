@@ -8,8 +8,8 @@
         "Orbe fantômatique",
         "Projecteur DOTS"
     ],
-    "force": "Les Poltergeist peuvent jeter plusieurs objets en même temps",
-    "faiblesse": "Lorsqu'ils n'ont rien à jeter, les Poltergeist sont considérablement affaiblis.",
+    "force": "Le Raiju siphonne l'énerge électrique des instruments à proxmité, le rendant plus rapide.",
+    "faiblesse": "Le Raiju perturbe constamment les instruments électroniques, le rendant facile à traquer lorsqu'il attaque.",
     "pouvoir": "Le Raiju ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité.",
     "informations": [
         "Le Raiju dispose de trois preuves à obtenir avec un appareil électronique. Lorsque vous avez défini que vous avez affaire à un Raiju, il peut être intéressant d'éteindre vos équipements électroniques présents dans la pièce du Raiju afin de réduire ses chances de chasser et sa vitesse en chasse.",

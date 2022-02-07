@@ -12,13 +12,18 @@
     "faiblesse": "Les Banshee craignent les crucifix et seront moins agressives à proximité d'un.",
     "pouvoir": "Le Banshee se déplace vers sa cible (se cacher n'a aucun effet) puis elle attend 20 secondes. Après cela, si ce joueur se situe toujours à proximité, elle lancera une chasse.",
     "informations": [
-        "La Banshee ne changera de cible que lorsque sa cible sera décédée.",
-        "Si la cible de la Banshee se trouve dans le bâtiment durant la chasse, elle s'acharnera à essayer de le trouver, ignorant alors les autres joueurs ainsi que leur voix. Elle ne tentera même pas de les tuer, et les traversera si ceux-ci tente de lui barrer la route.",
-        "Si la cible de la Banshee se trouve à l'extérieur du bâtiment durant la chasse, alors elle agira comme toutes les autres entités, c'est-à-dire qu'il sera possible pour elle de tuer n'importe quel joueur.",
-        "Puisqu'une Banshee ne cible qu'un joueur, tant qu'il est dans le bâtiment et bien caché, les autres joueurs peuvent librement se balader et prendre des photos sans risquer leur vie.",
-        "A cause de son pouvoir, la Banshee est l'une des seules entités connues pour pouvoir chasser peu importe la moyenne de Santé Mentale des joueurs. Théoriquement, il est probable que les joueurs soient chassés quelques secondes après avoir pénétré l'enceinte du bâtiment. Si tel est le cas, l'entité est très probablement une Banshee. L'autre entité capable de chasser sans prendre en compte la santé mentale est le Onryo, mais il a besoin d'une flamme pour le faire."
+        "La Banchee choisit une personne qui sera sa cible favorite",
+        "Il changera sa cible que lorsque celle-ci sera décédée",
+        "Le fait que sa cible sois dehors change pas le taux de chasse/apparition",
+        "Si elle chasse alors que sa cible est dehors\nAlors elle peut tuer n'importe quel joueur",
+        "Si elle chasse alors que sa cible est à l'intérieur\nAlors la Banshee ignore toutes les autres personnes et ne va pas chercher à les tuer",
+        "Elle aura tendance à attaquer les personnes immobiles proche d'elle (20 secondes sans bouger environ)",
+        "Le crucifix a un rayon d'activité de 5 mètres",
+        "Elle chante plus que les autres fantomes lors d'apparition",
+        "Si utilisation du micro parabolique, il y a une rare chance de créer un cri unique à la Banshee"
     ],
     "contributeurs": [
-        "Erpriex"
+        "Erpriex",
+        "Karamon"
     ]
 }

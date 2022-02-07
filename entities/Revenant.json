@@ -8,15 +8,18 @@
         "Écriture fantômatique",
         "Températures glaciales"
     ],
-    "force": "Les Poltergeist peuvent jeter plusieurs objets en même temps.",
-    "faiblesse": "Lorsqu'ils n'ont rien à jeter, les Poltergeist sont considérablement affaiblis.",
+    "force": "Un Revenant se déplacera très rapidement lorsqu'il chassera sa proie.",
+    "faiblesse": "Se cacher d'un Revenant le fera se déplacer plus lentemment.",
     "pouvoir": "Le Revenant ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité.",
     "informations": [
-        "Lorsqu'il chasse, tentez de trouver un endroit où vous cacher, afin que le Revenant revienne à sa vitesse lente.",
-        "Tout comme les autres entités, le Revenant va aller vérifier la pièce où vous vous êtes caché si vous êtes rentrés dedans alors qu'il vous voyait. Coupez plutôt la vision en tournant dans les coins, et cachez-vous dans une pièce quand il ne vous voit pas y entrer.",
-        "Si vous n'avez aucune cachette sûre à proximité, utilisez les Bâtons d'encens et les Crucifix pour l'empêcher de chasser le temps de rassembler les preuves et de faire vos Objectifs avant de fuir les lieux."
+        "Si le joueur n'est pas dans son champ de vision\nlors sa vitesse est divisée par 2 (0.75m/s)",
+        "Si le joueur est dans son champ de vision\nAlors sa vitesse est multipliée par 2 (3m/s)",
+        "En chasse, se cacher pour qu'il revienne à sa vitesse lente",
+        "Si le revenant vous chasse, essayer de prendre un maximum d'obstacle pour couper le champ de vision",
+        "Attaque souvent"
     ],
     "contributeurs": [
-        "Erpriex"
+        "Erpriex",
+        "Karamon"
     ]
 }
