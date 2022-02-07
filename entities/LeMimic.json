@@ -7,5 +7,14 @@
         "Spirit Box",
         "Emprintes digitales",
         "Températures glaciales"
+    ],
+    "force": "Nous ne sommes pas sûrs de quoi cette entité est capable. Faites attention.",
+    "faiblesse": "Plusieurs rapports indiquent des orbes à proximité des Mimics",
+    "pouvoir": "*TODO*",
+    "informations": [
+        "*TODO*"
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

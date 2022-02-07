@@ -7,5 +7,15 @@
         "Spirit Box",
         "Orbe fantômatique",
         "Températures glaciales"
+    ],
+    "force": "Éteindre une flamme peut pousser un Onryo à attaquer.",
+    "faiblesse": "Quand elle est menacée cette entité sera moins encline à chasser.",
+    "pouvoir": "L'Onryo ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité tant qu'il n'est pas menacé.",
+    "informations": [
+        "A cause de la probabilité, il se peut que plusieurs bougies s'éteignent sans que l'Onryo ne déclenche de chasse.",
+        "Parler à proximité de l'Onryo réduit son niveau d'activité."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

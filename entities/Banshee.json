@@ -7,5 +7,18 @@
         "Empreintes digitales",
         "Orbe fantômatique",
         "Projecteur DOTS"
+    ],
+    "force": "Une Banshee ne ciblera qu'une seule personne à la fois.",
+    "faiblesse": "Les Banshee craignent les crucifix et seront moins agressives à proximité d'un.",
+    "pouvoir": "Le Banshee se déplace vers sa cible (se cacher n'a aucun effet) puis elle attend 20 secondes. Après cela, si ce joueur se situe toujours à proximité, elle lancera une chasse.",
+    "informations": [
+        "La Banshee ne changera de cible que lorsque sa cible sera décédée.",
+        "Si la cible de la Banshee se trouve dans le bâtiment durant la chasse, elle s'acharnera à essayer de le trouver, ignorant alors les autres joueurs ainsi que leur voix. Elle ne tentera même pas de les tuer, et les traversera si ceux-ci tente de lui barrer la route.",
+        "Si la cible de la Banshee se trouve à l'extérieur du bâtiment durant la chasse, alors elle agira comme toutes les autres entités, c'est-à-dire qu'il sera possible pour elle de tuer n'importe quel joueur.",
+        "Puisqu'une Banshee ne cible qu'un joueur, tant qu'il est dans le bâtiment et bien caché, les autres joueurs peuvent librement se balader et prendre des photos sans risquer leur vie.",
+        "A cause de son pouvoir, la Banshee est l'une des seules entités connues pour pouvoir chasser peu importe la moyenne de Santé Mentale des joueurs. Théoriquement, il est probable que les joueurs soient chassés quelques secondes après avoir pénétré l'enceinte du bâtiment. Si tel est le cas, l'entité est très probablement une Banshee. L'autre entité capable de chasser sans prendre en compte la santé mentale est le Onryo, mais il a besoin d'une flamme pour le faire."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

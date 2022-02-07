@@ -1,49 +1,49 @@
 const { MessageEmbed, MessageActionRow, MessageSelectMenu } = require('discord.js');
 
-const Esprit = JSON.parse(JSON.stringify(require("../entities/Esprit.json")));
-const Spectre = JSON.parse(JSON.stringify(require("../entities/Spectre.json")));
-const Fantome = JSON.parse(JSON.stringify(require("../entities/Fantome.json")));
-const Poltergeist = JSON.parse(JSON.stringify(require("../entities/Poltergeist.json")));
 const Banshee = JSON.parse(JSON.stringify(require("../entities/Banshee.json")));
-const Djinn = JSON.parse(JSON.stringify(require("../entities/Djinn.json")));
 const Cauchemar = JSON.parse(JSON.stringify(require("../entities/Cauchemar.json")));
-const Revenant = JSON.parse(JSON.stringify(require("../entities/Revenant.json")));
-const Ombre = JSON.parse(JSON.stringify(require("../entities/Ombre.json")));
 const Demon = JSON.parse(JSON.stringify(require("../entities/Demon.json")));
-const Yurei = JSON.parse(JSON.stringify(require("../entities/Yurei.json")));
-const Oni = JSON.parse(JSON.stringify(require("../entities/Oni.json")));
-const Yokai = JSON.parse(JSON.stringify(require("../entities/Yokai.json")));
-const Hantu = JSON.parse(JSON.stringify(require("../entities/Hantu.json")));
+const Djinn = JSON.parse(JSON.stringify(require("../entities/Djinn.json")));
+const Esprit = JSON.parse(JSON.stringify(require("../entities/Esprit.json")));
+const Fantome = JSON.parse(JSON.stringify(require("../entities/Fantome.json")));
 const Goryo = JSON.parse(JSON.stringify(require("../entities/Goryo.json")));
-const Myling = JSON.parse(JSON.stringify(require("../entities/Myling.json")));
-const Onryo = JSON.parse(JSON.stringify(require("../entities/Onryo.json")));
-const LesJumeaux = JSON.parse(JSON.stringify(require("../entities/LesJumeaux.json")));
-const Raiju = JSON.parse(JSON.stringify(require("../entities/Raiju.json")));
-const Obake = JSON.parse(JSON.stringify(require("../entities/Obake.json")));
+const Hantu = JSON.parse(JSON.stringify(require("../entities/Hantu.json")));
 const LeMimic = JSON.parse(JSON.stringify(require("../entities/LeMimic.json")));
+const LesJumeaux = JSON.parse(JSON.stringify(require("../entities/LesJumeaux.json")));
+const Myling = JSON.parse(JSON.stringify(require("../entities/Myling.json")));
+const Obake = JSON.parse(JSON.stringify(require("../entities/Obake.json")));
+const Ombre = JSON.parse(JSON.stringify(require("../entities/Ombre.json")));
+const Oni = JSON.parse(JSON.stringify(require("../entities/Oni.json")));
+const Onryo = JSON.parse(JSON.stringify(require("../entities/Onryo.json")));
+const Poltergeist = JSON.parse(JSON.stringify(require("../entities/Poltergeist.json")));
+const Raiju = JSON.parse(JSON.stringify(require("../entities/Raiju.json")));
+const Revenant = JSON.parse(JSON.stringify(require("../entities/Revenant.json")));
+const Spectre = JSON.parse(JSON.stringify(require("../entities/Spectre.json")));
+const Yokai = JSON.parse(JSON.stringify(require("../entities/Yokai.json")));
+const Yurei = JSON.parse(JSON.stringify(require("../entities/Yurei.json")));
 
 const entities = new Map();
-entities.set(Esprit.value, Esprit);
-entities.set(Spectre.value, Spectre);
-entities.set(Fantome.value, Fantome);
-entities.set(Poltergeist.value, Poltergeist);
 entities.set(Banshee.value, Banshee);
-entities.set(Djinn.value, Djinn);
 entities.set(Cauchemar.value, Cauchemar);
-entities.set(Revenant.value, Revenant);
-entities.set(Ombre.value, Ombre);
 entities.set(Demon.value, Demon);
-entities.set(Yurei.value, Yurei);
-entities.set(Oni.value, Oni);
-entities.set(Yokai.value, Yokai);
-entities.set(Hantu.value, Hantu);
+entities.set(Djinn.value, Djinn);
+entities.set(Esprit.value, Esprit);
+entities.set(Fantome.value, Fantome);
 entities.set(Goryo.value, Goryo);
-entities.set(Myling.value, Myling);
-entities.set(Onryo.value, Onryo);
-entities.set(LesJumeaux.value, LesJumeaux);
-entities.set(Raiju.value, Raiju);
-entities.set(Obake.value, Obake);
+entities.set(Hantu.value, Hantu);
 entities.set(LeMimic.value, LeMimic);
+entities.set(LesJumeaux.value, LesJumeaux);
+entities.set(Myling.value, Myling);
+entities.set(Obake.value, Obake);
+entities.set(Ombre.value, Ombre);
+entities.set(Oni.value, Oni);
+entities.set(Onryo.value, Onryo);
+entities.set(Poltergeist.value, Poltergeist);
+entities.set(Raiju.value, Raiju);
+entities.set(Revenant.value, Revenant);
+entities.set(Spectre.value, Spectre);
+entities.set(Yokai.value, Yokai);
+entities.set(Yurei.value, Yurei);
 
 module.exports = class CommandPhasmowiki{
 
@@ -58,84 +58,88 @@ module.exports = class CommandPhasmowiki{
             .setPlaceholder("Sélectionnez une entité")
             .addOptions([
               {
-                label: Esprit.name,
-                value: Esprit.value
-              },
-              {
-                label: Spectre.name,
-                value: Spectre.value
-              },
-              {
-                label: Fantome.name,
-                value: Fantome.value
-              },
-              {
-                label: Poltergeist.name,
-                value: Poltergeist.value
-              },
-              {
                 label: Banshee.name,
                 value: Banshee.value
-              },
-              {
-                label: Djinn.name,
-                value: Djinn.value
               },
               {
                 label: Cauchemar.name,
                 value: Cauchemar.value
               },
               {
-                label: Revenant.name,
-                value: Revenant.value
-              },
-              {
-                label: Ombre.name,
-                value: Ombre.value
-              },
-              {
                 label: Demon.name,
                 value: Demon.value
               },
               {
-                label: Yurei.name,
-                value: Yurei.value
+                label: Djinn.name,
+                value: Djinn.value
               },
               {
-                label: Oni.name,
-                value: Oni.value
+                label: Esprit.name,
+                value: Esprit.value
               },
               {
-                label: Yokai.name,
-                value: Yokai.value
+                label: Fantome.name,
+                value: Fantome.value
               },
               {
                 label: Goryo.name,
                 value: Goryo.value
               },
               {
-                label: Myling.name,
-                value: Myling.value
+                label: Hantu.name,
+                value: Hantu.value
               },
               {
-                label: Onryo.name,
-                value: Onryo.value
+                label: LeMimic.name,
+                value: LeMimic.value
               },
               {
                 label: LesJumeaux.name,
                 value: LesJumeaux.value
               },
               {
-                label: Raiju.name,
-                value: Raiju.value
+                label: Myling.name,
+                value: Myling.value
               },
               {
                 label: Obake.name,
                 value: Obake.value
               },
               {
-                label: LeMimic.name,
-                value: LeMimic.value
+                label: Ombre.name,
+                value: Ombre.value
+              },
+              {
+                label: Oni.name,
+                value: Oni.value
+              },
+              {
+                label: Onryo.name,
+                value: Onryo.value
+              },
+              {
+                label: Poltergeist.name,
+                value: Poltergeist.value
+              },
+              {
+                label: Raiju.name,
+                value: Raiju.value
+              },
+              {
+                label: Revenant.name,
+                value: Revenant.value
+              },
+              {
+                label: Spectre.name,
+                value: Spectre.value
+              },
+              {
+                label: Yokai.name,
+                value: Yokai.value
+              },
+              {
+                label: Yurei.name,
+                value: Yurei.value
               }
             ])
         );
@@ -156,13 +160,29 @@ module.exports = class CommandPhasmowiki{
         preuvesStr += "• " + value + "\n";
       })
 
+      let informationsStr = "";
+      entity.informations.forEach((value,index,array) => {
+        informationsStr += "• " + value + "\n";
+      })
+
+      let contributeursStr = "";
+      entity.contributeurs.forEach((value,index,array) => {
+        contributeursStr += " " + value + ","
+      })
+
+      let PhasmoWiki = require('../PhasmoWiki');
+
       let embed = new MessageEmbed()
         .setTitle('> ' + entity.name)
         .setURL(entity.url)
         .setDescription(entity.description)
         .addField("Preuves", preuvesStr)
+        .addField("Force", entity.force, true)
+        .addField("Faiblesse", entity.faiblesse, true)
+        .addField("Pouvoir", entity.pouvoir)
+        .addField("Informations", informationsStr)
+        .setFooter("Contributeurs:" + contributeursStr, PhasmoWiki.getBot().user.avatarURL())
 
-      let PhasmoWiki = require('../PhasmoWiki');
       PhasmoWiki.getBot().channels.cache.get(interaction.channelId).send({embeds: [embed]});
     }
 

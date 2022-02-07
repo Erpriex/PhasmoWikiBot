@@ -7,5 +7,15 @@
         "EMF niveau 5",
         "Orbe fantômatique",
         "Projecteur DOTS"
+    ],
+    "force": "Les Poltergeist peuvent jeter plusieurs objets en même temps",
+    "faiblesse": "Lorsqu'ils n'ont rien à jeter, les Poltergeist sont considérablement affaiblis.",
+    "pouvoir": "Le Raiju ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité.",
+    "informations": [
+        "Le Raiju dispose de trois preuves à obtenir avec un appareil électronique. Lorsque vous avez défini que vous avez affaire à un Raiju, il peut être intéressant d'éteindre vos équipements électroniques présents dans la pièce du Raiju afin de réduire ses chances de chasser et sa vitesse en chasse.",
+        "Le Raiju fait dysfonctionner tout appareil électronique au même étage et jusqu'à 20 mètres de lui. Cela correspond à la distance maximale à laquelle on peut entendre les pas d'une entité en chasse. Soyez créatif pour déterminer cette entité."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

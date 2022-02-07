@@ -7,5 +7,17 @@
         "EMF niveau 5",
         "Emprintes digitales",
         "Températures glaciales"
+    ],
+    "force": "Un Djinn voyagera à une vitesse plus rapide si sa victime est loin.",
+    "faiblesse": "Couper le courant empêchera le Djinn d'utiliser sa capacité.",
+    "pouvoir": "Lorsque le Djinn utilise son pouvoir, il va se déplacer auprès d'un joueur très proche de lui et attendre 5 secondes. Si au bout du temps imparti un ou plusieurs joueurs se trouvent à moins de 3 mètres du Djinn, leur santé mentale va chuter de 25% d'un seul coup.",
+    "informations": [
+        "Le Djinn a tendance à toucher davantage aux objets électroniques, un Djinn qui n'est pas timide pourrait accidentellement être confondu avec un Poltergeist.",
+        "En chasse, si le disjoncteur est actif, le Djinn se déplacera à une vitesse deux fois plus élevée si le joueur le plus proche se situe à plus de 4 mètres de lui. Il reprendra sa vitesse normale dès qu'il s'aventure à proximité d'un joueur durant sa chasse.",
+        "Couper le courant l'empêche de se déplacer plus vite que sa vitesse normale.",
+        "Depuis la mise à jour 0.4, le Djinn ne doit plus pouvoir désactiver naturellement le Disjoncteur. Si cela se produit, signalez le bug."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

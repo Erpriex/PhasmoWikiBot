@@ -7,5 +7,15 @@
         "EMF niveau 5",
         "Écriture fantômatique",
         "Températures glaciales"
+    ],
+    "force": "Les Ombres sont bien plus difficiles à trouver.",
+    "faiblesse": "Une Ombre ne tentera pas une chasse si plusieurs personnes sont à proximité.",
+    "pouvoir": "L'Ombre ne dispose pas de pouvoir particulier. Il effectuera donc davantage d'apparitions que les autres types d'entité tant qu'il y a moins de deux joueurs à proximité.",
+    "informations": [
+        "Bien que l'Ombre est décrite comme timide, ce n'est pas forcément le cas. Il se peut qu'une Ombre soit particulièrement active, surtout si la Pièce hantée est particulièrement grande (salles de classe, vestiaires, ensemble de cellules de la Prison,...). Dans ce cas, il sera également difficile de l'empêcher de chasser.",
+        "Si l'Ombre décide d'être particulièrement timide et que plusieurs personnes sont en permanence autour d'elle, il se peut fortement que votre seule preuve soit les Températures glaciales. Pensez alors à laisser seule une personne dans la pièce, avec un Livre d'écriture fantomatique et un Lecteur EMF sur-place."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

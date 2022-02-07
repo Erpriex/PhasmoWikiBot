@@ -7,5 +7,15 @@
         "Spirit Box",
         "Empreintes digitales",
         "Écriture fantômatique"
+    ],
+    "force": "Les Poltergeist peuvent jeter plusieurs objets en même temps.",
+    "faiblesse": "Lorsqu'ils n'ont rien à jeter, les Poltergeist sont considérablement affaiblis.",
+    "pouvoir": "Le Poltergeist intéragit avec plusieurs objets à la fois, affectant la santé mentale des joueurs les entendant.\nOn appelle souvent ces phénomènes \"Kick de Poltergeist\", et cela se traduit par un bruit significatif de plusieurs objets qui tombent en chaine, et un grand pic d'activité visible sur le tableau d'activité paranormale disponible dans le camion.",
+    "informations": [
+        "Les Poltergeist sont généralement très timides, mais dans de rares cas, pourraient être assez actifs avec les objets alentours, touchant et manipulant presque tout ce qu'ils ont sous la main. Cela cause souvent une baisse de santé mentale plus élevée que prévue.",
+        "Un très gros pic d'activité qui n'est pas lié à un EMF5 ou à une apparition est souvent la preuve que vous avez affaire à un Poltergeist, surtout si vous avez déjà obtenu une réponse à la Spirit Box."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

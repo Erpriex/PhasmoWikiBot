@@ -7,5 +7,15 @@
         "EMF niveau 5",
         "Spirit Box",
         "Projecteur DOTS"
+    ],
+    "force": "Les Spectres ne touchent presque jamais le sol et on ne peut, par conséquent, pas voir leurs traces de pas.",
+    "pouvoir": "Le Spectre peut se téléporter sur un joueur dans le batiment et émettra un EMF d'intéraction.\nPeut après ça, il peut apparaître ou chasser.",
+    "informations": [
+        "Contrairement à ce que des croyances collectives pensent, les Spectres laissent bien des marques dans le sel, cependant, les bruits de pas qu'il émet lorsqu'il tente de s'en débarrasser ne laisseront pas d'empreintes si l'on pointe le sol avec une lampe à UV ou un bâton d'UV, contrairement aux autres entités.",
+        "Encore contrairement à ce que des croyances collectives pensent, les Spectres, comme les autres entités, ne peuvent pas voir à travers les portes. Ils ne peuvent pas non plus traverser les murs.",
+        "Le Spectre agit principalement comme les autres fantômes, mais la possibilité pour lui de se téléporter à un joueur peut lui permettre de sortir du champ d'action des crucifix, et le rend particulièrement dangereux à santé mentale basse."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }

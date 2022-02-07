@@ -7,5 +7,15 @@
         "EMF niveau 5",
         "Emprintes digitales",
         "Écriture fantômatique"
+    ],
+    "force": "Le Myling devient slencieux lorsqu'il chasse.",
+    "faiblesse": "Les Myling émettent très souvent des sons d'origine paranormale.",
+    "pouvoir": "Le Myling déclenche un bruit paranormal inaudible, mais détectable avec le microphone parabolique ou un capteur sonore avec une valeur élevée.",
+    "informations": [
+        "Le Myling parle au Microphone parabolique plus facilement que les autres entités, mais obtenir un chuchottement au micro n'est pas une preuve irréfutable pour autant car toutes les entités peuvent le faire.",
+        "Test du Myling : laissez un EMF au niveau des escaliers au même étage que vous, afin de vous assurer d'être au même étage que l'entité qui chasse. Cachez vous et lachez votre lampe torche allumée à vos pieds, si vous entendez l'EMF dysfonctionner & les bruits de pas de l'entité MAIS que votre lampe torche ne dysfonctionne pas, ce n'est PAS un Myling."
+    ],
+    "contributeurs": [
+        "Erpriex"
     ]
 }
