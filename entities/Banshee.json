@@ -12,7 +12,7 @@
     "faiblesse": "Les Banshee craignent les crucifix et seront moins agressives à proximité d'un.",
     "pouvoir": "Le Banshee se déplace vers sa cible (se cacher n'a aucun effet) puis elle attend 20 secondes. Après cela, si ce joueur se situe toujours à proximité, elle lancera une chasse.",
     "informations": [
-        "La Banchee choisit une personne qui sera sa cible favorite",
+        "La Banshee choisit une personne qui sera sa cible favorite",
         "Il changera sa cible que lorsque celle-ci sera décédée",
         "Le fait que sa cible sois dehors change pas le taux de chasse/apparition",
         "Si elle chasse alors que sa cible est dehors\nAlors elle peut tuer n'importe quel joueur",
